@@ -24,9 +24,8 @@ These are the network labs for CSCD 330 Networks at EWU. The labs are programmin
     This segment looks at a client/server model and the complexities that come with that
     - Lab 7:
         This lab focuses on the client side
+5. LAN:
+    This segment focuses on concepts related to LAN
     - Lab 8:
-        This lab focuses on the server counterpart to lab 7
-5. Full Application:
-    This segment will require the use of all previous concepts
-    - Lab 9:
-        This lab goes over creating a network based game.
+        This lab focuses on creating a client for DHCP
+  
